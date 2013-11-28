@@ -2,7 +2,7 @@
 
 int main (void){
 
-  printf("ｺｹｰ");
-  
+  printf("%",sin(0));
+    
   return 0;
 }

@@ -2,7 +2,7 @@
 
 int main (void){
 
-  printf("%",sin(0));
-    
+  printf("%f",sin(0));
+  printf("%d",3);    
   return 0;
 }
